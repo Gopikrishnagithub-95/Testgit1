@@ -7,7 +7,7 @@ package com.java.pattren;
  * @author gopi
  *
  */
-public class DiamondShapePattern {
+public class DiamondShapePattern  {
 
 	/**
 	 * @param args
